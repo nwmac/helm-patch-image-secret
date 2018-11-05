@@ -1,0 +1,1 @@
+# helm-patch-image-secret
